@@ -43,7 +43,7 @@ export default function Home() {
       
       <video
         ref={videoRef}
-        src="https://res.cloudinary.com/dpakyf8su/video/upload/q_auto/f_auto/v1775456598/bg4_lswxft.mp4"
+        src="https://res.cloudinary.com/dpakyf8su/video/upload/q_auto/f_auto/v1775783637/kijyoi_repjqj.mp4"
         autoPlay
         muted
         playsInline
